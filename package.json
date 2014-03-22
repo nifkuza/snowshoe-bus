@@ -7,7 +7,8 @@
         "express" : "3.1.0",
         "jade"    : "0.35.0",
         "logme"   : "0.3.8",
-        "request" : "2.11.4"
+        "request" : "2.11.4",
+        "snowshoestamp" : "0.1.0"
    }
 }
 
